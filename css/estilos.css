@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header{
+    display: inline-flex;
+    text-decoration: none;
+    box-sizing: border-box;
+    background-color: #232323;
+    height: 50px;
+    width: 1900px;
+}
+
+
+/* Body */
+
+body{
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    
+} 
+
+.logo {
+    text-align: left;
+    width: 150px;
+    height: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #EB4FE5;
+    font-size: 100px;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-flex;
+    margin: 15px 15px;
+}
+a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #EB4FE5;
+}
+
+/* Main */
+
+main{
+    margin: 100px;
+    padding: 0px;
+    text-align: center;
+}
+
+.LedsMain{
+    width: 900px;
+    height: 470px;
+    display: block;
+    margin-left: 25%;
+}
+
+#Gadgets{
+width: 9.4%;
+height: 9.5%;
+}
+
+#VA{
+    width: 11.9%;
+    height: 12;
+    margin-left: 32px;
+}
+#Buds{
+    width: 14.1%;
+    height: 7%;
+}
+
+#SmartH{
+    width: 12.6%;
+    height: 10.2%;
+}
+
+.imagesmain{
+    display: inline-block;
+    margin-top: 0.5%;
+}
+
+.navegar{
+    margin-bottom: 20px;
+}
+
+h3{
+text-align: center;
+display: inline-block;
+margin: 75px;
+margin-top: 20px;
+color: white;
+}
+
+.TheEnd{
+    margin-left: 370px;
+}
+
+.login{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #EB4FE5;
+text-align: right;
+margin-top: -70px;
+margin-right: 80px;
+}
+
+.searchcart{
+    width: 25px;
+    height: 25px;
+    margin: 0px 10px;
+    margin-right: 0px;
+    margin-top: 30px;
+}
+
+/* Shop */
+
+.imgSmartLedStripLights{
+    display: inline-flex;;
+    width: 300px;
+    height: 300px;
+    margin: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.contenedorSmartLedStripLights{
+    text-align: center;
+    margin: 10px;
+}
+
+.ShopH2{
+    color: #EB4FE5;
+    margin: 0px;
+    margin-left: -60px;
+    box-sizing: border-box;
+    background-color: #232323;
+    height: 30px;
+    width: 240px;
+}
+
+.GadgetsPictures{
+    display: inline-flex;;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.picAboutUs{
+    width: 800px;
+    height: 400px;
+object-position: center;
+}
+
+.aboutush2{
+    text-align: center;
+    color: #EB4FE5;
+    font-size:50px;
+}
+
+.loremaboutus{
+    color: #EB4FE5;
+    font-size: 24px;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+}
+
+.contenedorAboutUs{
+    text-align: center;
+    margin: 40px;
+}
+
+.imageblog{
+    width: 600px;
+    height: 400px;
+}
+
+.blogh2{
+    color: #EB4FE5;
+    margin: 40px;
+    font-size: 45px;
+}
+
+.loremblog{
+    color: #EB4FE5;
+    font-size: 24px;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+}
+
+form{
+    margin-top: 20px;
+}
+
+label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #EB4FE5;
+    font-size: 24px;
+}
+
+input,
+textarea{
+    width: 50%;
+    padding: 10px;
+    border: 2px solid #EB4FE5;
+    border-radius: 5px;
+    font-size: 24px;
+    margin: bottom 10px;
+    text-align: center;
+    background-color: #232323;
+
+}
+
+.btnformulario{
+    background-color: #232323;
+    color: #EB4FE5;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.contactush2{
+    margin: 20px;
+    color: #EB4FE5;
+}
+
